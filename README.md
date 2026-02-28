@@ -3,9 +3,7 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Tech
 
-### Artificial Intelligence (AI)
-
-#### Chat
+### Artificial Intelligence (AI) Chat
 - Claude - https://claude.ai
 - ChatGPT - https://chatgpt.com
 - Google Gemini - https://gemini.google.com
