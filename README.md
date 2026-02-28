@@ -6,18 +6,16 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Artificial Intelligence (AI)
 
 #### Chat
-- ChatGPT - https://chatgpt.com
 - Claude - https://claude.ai
-- DeepSeek - https://www.deepseek.com
+- ChatGPT - https://chatgpt.com
 - Google Gemini - https://gemini.google.com
-- Microsoft CoPilot - https://copilot.microsoft.com
 - Grok - https://grok.com
-- Perplexity - https://www.perplexity.ai
-- Pi - https://pi.ai
+- Microsoft CoPilot - https://copilot.microsoft.com
 - Kimi - https://www.kimi.com
+- Qwen - https://qwen.ai
+- DeepSeek - https://www.deepseek.com
 - Mistral Le Chat - https://chat.mistral.ai
-- Manus - https://manus.im
-- Lumo - https://lumo.proton.me
+- Perplexity - https://www.perplexity.ai
 
 ### Git Repos
 - GitHub - https://github.com
@@ -27,18 +25,15 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
 
 ### Cloud and Traditional Hosting:
-- Amazon AWS (Free tier available) - https://aws.amazon.com
-- Microsoft Azure (Free tier available) - https://azure.microsoft.com
-- Google Cloud (Free tier available) - https://cloud.google.com
-- Digital Ocean (Free tier available) - https://digitalocean.com
-- Vultr (Paid plan) - https://vultr.com
-- Heroku (Paid plan) - https://www.heroku.com
-- BlueHost (Paid plan) - https://www.bluehost.com
-- DreamHost (Paid plan) - https://www.dreamhost.com
-- Fly.io (Paid plan) - https://fly.io
+- Amazon AWS - https://aws.amazon.com
+- Microsoft Azure - https://azure.microsoft.com
+- Google Cloud - https://cloud.google.com
+- Digital Ocean - https://digitalocean.com
+- Render - https://render.com
+- Vultr - https://www.vultr.com/free-tier-program/
 
 #### Static Site Hosting:
-- CloudFlare Page - https://pages.cloudflare.com
+- CloudFlare Pages - https://pages.cloudflare.com
 - CloudFlare Workers - https://workers.cloudflare.com
 - GitHub pages - https://pages.github.com
 - Google FireBase - https://firebase.google.com/products/hosting
@@ -79,26 +74,27 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Development IDEs/Editors (including AI-based)
 - Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com
 - Microsoft Visual Studio	(IDE) - https://www.visualstudio.com
+- JetBrains IDEs - https://www.jetbrains.com/ides
+  - WebStorm - https://www.jetbrains.com/webstorm
 - Sublime Text - https://www.sublimetext.com
-- JetBrains IDEs (various): https://www.jetbrains.com/ides
-- WebStorm - https://www.jetbrains.com/webstorm
 - NetBeans - http://netbeans.org
 - Eclipse - https://eclipse.org
-- Cursor (AI based) - https://cursor.com
-- Windsurf (AI based) - https://codeium.com/windsurf
-- AI For Developers (Directory) - https://aifordevelopers.org
+- Windsurf (AI-based) - https://codeium.com/windsurf
 
-### Online Development Platforms/IDEs (including AI-based)
-- Firebase Studio (AI based) by Google - https://firebase.studio
+### Online Development Platforms/IDEs
 - VSCode for Web - https://vscode.dev
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
 - Koding - https://koding.com
 - Humanitec - https://humanitec.com
+
+### AI-based Online Development Platforms/IDEs
 - Bolt.new (AI baseed) - https://bolt.new
 - Lovable (AI based) - https://lovable.dev
 - Replit (AI based) - https://replit.com
 - v0 by Vercel (AI based) - https://v0.dev
+- Firebase Studio (AI based) by Google - https://firebase.studio
+- Google AI Studio - https://aistudio.google.com
 
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
@@ -222,35 +218,33 @@ This is a curated list about tools for everything from productivity to hosting t
 - TikTok - https://www.tiktok.com/
 
 ### Sales & Marketing:
-- HubSpot - https://www.hubspot.com/
+- HubSpot - https://www.hubspot.com
   - Marketing: https://www.hubspot.com/products/marketing
   - Sales: https://www.hubspot.com/products/sales
 - Website Grader by HubSpot	http://grader.com
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
-- TweetDeck - https://tweetdeck.twitter.com
 - CrowdFire - https://www.crowdfireapp.com
-- Ubersuggest - http://ubersuggest.org/
-- Visual Website Optimizer - https://visualwebsiteoptimizer.com/
-- Tweriod - http://www.tweriod.com/
+- Ubersuggest - http://ubersuggest.org
+- Visual Website Optimizer - https://visualwebsiteoptimizer.com
+- Tweriod - http://www.tweriod.com
 - My Site Auditor - http://mysiteauditor.com
-- Free traffic increase - http://www.10khits.com/
-- WooBox - http://woobox.com/
+- WooBox - http://woobox.com
 - Add Shoppers - http://addshoppers.com
-- BuzzSumo - http://buzzsumo.com/
-- Static html app - https://statichtmlapp.com/
-- Hashtagify - http://hashtagify.me/
-- Ritetag - http://ritetag.com/
-- Tagboard - https://tagboard.com/
-- Trendsmap - http://trendsmap.com/
+- BuzzSumo - http://buzzsumo.com
+- Static html app - https://statichtmlapp.com
+- Hashtagify - http://hashtagify.me
+- Ritetag - http://ritetag.com
+- Tagboard - https://tagboard.com
+- Trendsmap - http://trendsmap.com
 - Shortstack - http://www.shortstack.com
-- Post Planner - http://www.postplanner.com/
-- Carousel Hero - https://carouselhero.com/
-- Cello - https://cello.so/
-- Social Proof Examples - https://socialproofexamples.com/
-- Website Headlines - https://websiteheadlines.com/
-- Vidclue - https://vidclue.com/
-- AnswerThePublic - https://answerthepublic.com/
+- Post Planner - http://www.postplanner.com
+- Carousel Hero - https://carouselhero.com
+- Cello - https://cello.so
+- Social Proof Examples - https://socialproofexamples.com
+- Website Headlines - https://websiteheadlines.com
+- Vidclue - https://vidclue.com
+- AnswerThePublic - https://answerthepublic.com
 
 ### Web Experimentation:
 - VWO - https://vwo.com
